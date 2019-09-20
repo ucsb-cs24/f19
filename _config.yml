@@ -1,0 +1,128 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs24.github.io 
+baseurl: "/f19"  
+
+name: "CS 24 Fall 2019"
+course: "CS24"
+course_title: "Problem Solving with Computers II"
+title: "UCSB CS24 F19"
+github_url: https://github.com/ucsb-cs24/f19
+qtr: "F19"
+quarter: "Fall 2019"
+lecture_times: "T/Th 5:00pm–6:15pm"
+lecture_location: "CHEM 1171"
+lab_times: "Thursdays: 1pm, 2pm, 3pm, and 4pm"
+tas: "Xiaotong (Sherry) Chen, Vaishali Surianarayanan"
+tutors: "Aditya Nadkarni,
+Surya Purgal,
+Bryan Terce,
+Erin Woo"
+class_org:
+   name: ucsb-cs24-f19-nichols 
+   url: https://github.com/ucsb-cs24-f19-nichols
+   
+lect_repo: https://github.com/ucsb-cs24-f19-nichols/code-from-class
+start_week: 0
+start_date: 2019-09-22
+num_weeks: 11
+extra_exam_week: true
+
+instructor_url: https://ucsb-cs24.github.io/instructor
+
+cal_dates: >
+  [
+  {"label":"First day of classes", "date":"2019-09-26" },
+  {"label":"Holiday", "date":"2019-11-11" },
+  {"label":"Holiday", "date":"2019-11-28" },
+  {"label":"Holiday", "date":"2019-11-29" },
+  {"label":"Drop deadline","date":"2019-10-23" },
+  {"label":"F19 Instruction Ends", "date":"2019-12-06" },  
+  {"label":"F19 Quarter Ends", "date":"2019-12-13" }          
+  ]
+
+kramdown:
+   parse_block_html: true
+
+exclude:
+   - vendor
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  pa:
+    output: true
+    permalink: /pa/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  -
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: pa
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  -
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
