@@ -16,13 +16,7 @@ Your first lab for this week is an introduction to programming on CSIL and tools
 * Learn about the tools you will be using in this class: gradescope and github
 
 
-This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with your programming partner.
-
-# Tell us about yourself 
-
-Please fill out the following form to tell us about yourself. We will use the information to pair you with your preferred programming partner or someone in the class with the similar skill levels as your self. Here is the link to the form [http://bit.ly/CS24-S19-ic00-AboutYou](http://bit.ly/CS24-S19-ic00-AboutYou)
-
-Answer all the questions in the form to earn credit for this part (50 points). 
+This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with a programming partner.
 
 # Get setup with the tools for this course
 
@@ -34,7 +28,7 @@ If you are enrolled in <i>any</i> CoE course this quarter (including CS24), you 
 
 ## Get setup with github
 
-We will be using github.com in this course.   We have created an organization called ucsb-cs24-s19-mirza on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors, TAs and mentors) will be able to see your code and provide you with help, without you having to do anything special.
+We will be using github.com in this course.   We have created an organization called ucsb-cs24-f19-nichols on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors, TAs and mentors) will be able to see your code and provide you with help, without you having to do anything special.
 
 To join this organization, you need to do three things.
 
@@ -42,7 +36,7 @@ To join this organization, you need to do three things.
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS24-S19), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
+3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS24-F19), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
 
 4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](www.github.com) to accept the invitation.
 
@@ -50,9 +44,13 @@ To join this organization, you need to do three things.
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope.
 
-Log into our class site on[www.gradescope.com](www.gradescope.com): CS24 Spring 2019 and navigate to the lab00 assignment
+Log into our class site on[www.gradescope.com](www.gradescope.com): CS24 Fall 2019 and navigate to the lab00 assignment
 
 # Implement and submit a simple C++ program 
+
+## These instructions, and all future lab instructions, are written under the assumption that you're working on the CSIL machines (either physically or remotely). You don't have to work on them, and you are welcome to work on your own machines to complete the labs in this class.
+
+You can come to office hours if you'd like help with getting things working on your own computer.
 
 ## Open a Terminal and write a simple "Hello World" program 
 
@@ -128,7 +126,7 @@ I am ready for CS24!
 
 ## Create a repo on github in our class organization
 
-For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs24-s19-mirza organization following these steps
+For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs24-f19-nichols organization following these steps
 
 * Navigate to your dashboard on [www.github.com](www.github.com). From the left drop down menu, select the class organization as shown in the figure below:
 ![select-org](select-org.png){:height="500px"}
@@ -162,4 +160,4 @@ You will be given the option of directly uploading files from your local machine
 
 You should receive 50 points on this part of the assignment.
 
-Congratulations on completing the workflow for CS24 programming assignments using the tools that we will be using in this class i.e. gradescope and github. In the next labs we will integrate the command line interface of github into this workflow
+Congratulations on completing the workflow for CS24 programming assignments using the tools that we will be using in this class (i.e. gradescope and github)! In the next labs we will integrate the command line interface of github into this workflow.

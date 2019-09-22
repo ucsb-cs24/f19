@@ -11,7 +11,7 @@ You must contact the instructor for clarification if you receive information fro
 
 ## Basic Facts
 
-* **Course Web Site**: <{{ site.url}}>
+* **Course Web Site**: <{{ site.url }}{{ site.baseurl }}/>
 * **Instructor**:  Lawton Nichols
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
 * **TAs**: {{ site.tas}}
@@ -41,7 +41,7 @@ You must contact the instructor for clarification if you receive information fro
 * Final Examination: 25%
 * Participation (i.e., iClickers): 2%
 
-I will drop the lowest two quizzes. For late labs and programming assignments, you will receive a 10% penalty for each day the lab/programming assignment is late (deadlines are strict, and it's considered a day late even if it's only late by 1 minute).
+I will drop the lowest two quizzes. For late labs and programming assignments, you will receive a 10% penalty for each day the lab/programming assignment is late (deadlines are strict, and it's considered a day late even if it's only late by 1 minute). There are no late submissions allowed for any extra credit assignments.
 
 ## Grade assignment policy
 
@@ -85,8 +85,8 @@ I will drop the lowest two quizzes. For late labs and programming assignments, y
 
 </table>
 
-<strong>Curving: </strong>The grade  scale above represents the <em>minimum</em> letter grade you will be assigned&#8212;at the instructor's discretion, the grading scale  may be altered <em>in the students' favor</em> if this will be better reflect the students' mastery of the material. Thus, <em>if</em> there is a &quot;curve&quot;, it will be applied at the <em>end</em>, not to individual assignments.</p>
-<p><strong>A+ grades: </strong>These may be awarded to the very best performing students in the class—but the cutoff for A+ grades will be determined at the end of the course at the discretion of the instructor (there is no pre-determined cutoff---an average of 97 or more doesn't guarantee you an A+ grade.)
+<strong>Curving: </strong>The grade  scale above represents the <em>minimum</em> letter grade you will be assigned&#8212;at the instructor's discretion, the grading scale  may be altered <em>in the students' favor</em> if this will be better reflect the students' mastery of the material. Thus, <em>if</em> there is a &quot;curve&quot;, it will be applied at the <em>end</em>, not to individual assignments.
+<p><strong>A+ grades: </strong>These may be awarded to the very best performing students in the class—but the cutoff for A+ grades will be determined at the end of the course at the discretion of the instructor (there is no pre-determined cutoff---an average of 97 or more doesn't guarantee you an A+ grade.)</p>
 
 
 

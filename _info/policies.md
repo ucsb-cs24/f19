@@ -88,7 +88,7 @@ You may NOT:
 
 ## About pair programming
 
-<p>Most of the programming work in this course will be done using a style of programming known as &quot;pair programming&quot;. This is where two people (in rare cases, three) work together at the same terminal to solve a programming problem.</p>
+<p>Most of the programming work in this course can be done using a style of programming known as &quot;pair programming&quot;. This is where two people (in rare cases, three) work together at the same terminal to solve a programming problem.</p>
 <p>It is similar, in some ways, to having a &quot;lab partner&quot; in a Biology, Chemistry or Physics course.</p>
 <p>For the assignments where pair programming is used, it is required, not optional. Here's why:<br />
   </p>
@@ -109,12 +109,6 @@ You may NOT:
 <p>To learn more about pair programming, watch the following video (it takes less than 10 minutes): <br /></p>
 
 [http://bit.ly/pair-programming-video](http://bit.ly/pair-programming-video)
-
-
-
-## Late Lab Policy
-
-As a general rule, you may submit your labs one day past the deadline for a 10% deduction. You are responsible to make sure you have the correct score for your assignments prior to the due date. This is specially important if you are working with a programming partner.
 
 
 ## Disclaimer

@@ -17,13 +17,13 @@ due: 2019-12-05 23:59:00.00-8
 
 * Clone your repo on CSIL in your home directory.
 
-* Get the starter code : If you have already cloned the `cs24-s19-starter-code`
+* Get the starter code : If you have already cloned the `cs24-f19-starter-code`
 change into it and type `git pull` to get the latest starter code.
 
 * Change into your repo directory and obtain copy the starter code by
    typing the following command
    ```
-   cp ~/cs24/cs24-s19-starter-code/extra_credit_lab/* ./
+   cp ~/cs24/cs24-f19-starter-code/extra_credit_lab/* ./
 
    ```
 

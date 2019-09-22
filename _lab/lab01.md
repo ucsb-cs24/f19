@@ -42,7 +42,7 @@ Please note that you may not collaborate on this lab
 * Clone the starter code repo from our class organization to your cs24 directory.
 
 ```
-	git clone git@github.com:ucsb-cs24-s19-mirza/cs24-s19-starter-code.git
+	git clone git@github.com:ucsb-cs24-f19-nichols/cs24-f19-starter-code.git
 ```
 
 Note that this repo will be updated to contain the starter code for all labs and programming assignments (although right now it only contains the code for lab01). In subsequenet labs you don't have to repeat this step. Instead you just have to type the command `git pull` to get the latest code. 
@@ -50,10 +50,10 @@ Note that this repo will be updated to contain the starter code for all labs and
 
 ## Step 1b: Create a new repo and clone it on your local machine
 
-* Create a repo for this lab just like you did in lab00: To do this, open a browser and navigate to [https://github.com](https://github.com). Log into your github account. From the drop down menu on the left, select our class organization: ucsb-cs24-s19-mirza and proceed to create a new repo using the correct naming convention. You may refer to the instructions in lab00. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab just like you did in lab00: To do this, open a browser and navigate to [https://github.com](https://github.com). Log into your github account. From the drop down menu on the left, select our class organization: ucsb-cs24-f19-nichols and proceed to create a new repo using the correct naming convention. You may refer to the instructions in lab00. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 * Clone the repo on your local machine: Navigate to your repo on github. If your repo is named lab00_jgaucho, then you have to go to to the link:
-https://github.com/ucsb-cs24-s19-mirza/lab00_jgaucho. Click on the green "clone or download" button. Then click on the address of your repo as shown in the figure below:
+https://github.com/ucsb-cs24-f19-nichols/lab00_jgaucho. Click on the green "clone or download" button. Then click on the address of your repo as shown in the figure below:
 
 ![submit](/lab/lab01/clone-repo.png){:height="500px"}
 
@@ -61,7 +61,7 @@ https://github.com/ucsb-cs24-s19-mirza/lab00_jgaucho. Click on the green "clone 
 
 ```
 	cd ~/cs24
-	git clone git@github.com:ucsb-cs24-s19-mirza/lab00_jgaucho.git
+	git clone git@github.com:ucsb-cs24-f19-nichols/lab00_jgaucho.git
 ```
 
 * The above command will create a new directory with the same name as your git repo. Change into that directory. For our example repo we need to type
@@ -77,7 +77,7 @@ You will write all the code for this assignment in this directory
 Copy the starter code to your git repo directory
 
 ```
-	cp ../cs24-s19-starter-code/lab01/* ./
+	cp ../cs24-f19-starter-code/lab01/* ./
 ```
 You should see two files in your current directory: rugfit1.cpp and rugfit2.cpp
 
