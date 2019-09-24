@@ -225,7 +225,7 @@ If you forgot to do so, be sure to follow the steps in section 1d (above) to upl
 
 ## Step 8: Submit your code to gradescope
 
-Go to our class site on [www.gradescope.com](www.gradescope.com). Navigate to the assignment for this lab and submit your code via github just like you did in lab00.
+Go to our class site on [www.gradescope.com](https://www.gradescope.com). Navigate to the assignment for this lab and submit your code via github just like you did in lab00.
 
 You should see a score of 100/100 for this lab.
 

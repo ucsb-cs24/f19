@@ -32,19 +32,19 @@ We will be using github.com in this course.   We have created an organization ca
 
 To join this organization, you need to do three things.
 
-1. If you don't already have a github.com account, create one on the "free" plan. Visit [www.github.com](www.github.com)
+1. If you don't already have a github.com account, create one on the "free" plan. Visit [www.github.com](https://www.github.com)
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
 3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS24-F19), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
 
-4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](www.github.com) to accept the invitation.
+4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](https://www.github.com) to accept the invitation.
 
 ## Get setup with gradescope
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope.
 
-Log into our class site on[www.gradescope.com](www.gradescope.com): CS24 Fall 2019 and navigate to the lab00 assignment
+Log into our class site on[www.gradescope.com](https://www.gradescope.com): CS24 Fall 2019 and navigate to the lab00 assignment
 
 # Implement and submit a simple C++ program 
 
