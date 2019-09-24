@@ -127,7 +127,7 @@ It holds a number: 20
 Moving to the next node whose address is 0...
 ```
 
-The for loop continues as long as n points at a node. At the end of each loop iteration, n is changed to point at the next node in the list. Study this loop, and be sure to understand it - discuss it with your partner to make sure you both understand it.
+The for loop continues as long as n points at a node. At the end of each loop iteration, n is changed to point at the next node in the list. Study this loop, and be sure to understand it.
 
 As one more illustration, let's use a while loop to count the nodes in a list like this one. Make sure you understand the following loop too, in which the while loop condition is just the node pointer itself -- it becomes 0 at the end. ;-)
 

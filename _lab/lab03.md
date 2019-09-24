@@ -23,8 +23,6 @@ By the time you have completed this lab, you should be able to
 
 ## Step 1: Choose initial roles, create a directory and get the starter code for this lab
 
-Partner up (and remember to switch roles after awhile). If your regular partner is more than 5 minutes late, ask the TA to pair you with someone else for this week.
-
 This lab's pilot should log in. You will (both) work in this account for the rest of the lab.
 
 Create a ~/cs24/{{page.num}} directory and make it your current directory:

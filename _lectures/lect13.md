@@ -5,7 +5,7 @@ ready: false
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: true
-lecture_date: 2019-11-14
+lecture_date: 2019-11-12
 ---
 
 # Code from lecture

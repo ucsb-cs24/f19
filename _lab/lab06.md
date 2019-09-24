@@ -3,7 +3,7 @@ layout: lab
 num: lab06
 ready: true
 desc: "Implementing a heap"
-assigned: 2019-11-14 00:00:00.00-8
+assigned: 2019-11-12 00:00:00.00-8
 due: 2019-11-26 23:59:00.00-7
 ---
 
@@ -22,11 +22,9 @@ For more imformation, you can look at the lecture slides for heap and its implem
 
 ## Step 1: Create a lab06 git repo and get the starter code
 
-First get together with your lab partner. If your regular partner is more than 5 minutes late, let your mentor know.
-
 Select a pilot, log into the CSIL machines.
 
-## Step 1a: Create a git repo, add your partner as collaborator
+## Step 1a: Create a git repo, add your partner (if applicable) as collaborator
 
 * Create a repo for this lab on the pilot's github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into the pilot's github account. From the drop down menu on the left, select our class organization: ucsb-cs24-f19-nichols and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho and your partner's is alily, your should name your repo lab06_agaucho_alily (usernames appear in alphabetical order). Also you must set the visibity of your repo to be 'PRIVATE' when creating it.
 

@@ -174,8 +174,6 @@ Here are the steps necessary to achieve such an object-oriented solution:
 
 * Create and use Rectangle objects to solve problems, often just in a main function. This main function applies the abstraction.
 
-* Discuss the meaning of these steps with your lab partner, to make sure you both understand (at least generally) what you are to do, and hopefully gain an appreciation for why you might want to do it that way.
-
 ## Step 5: Complete rugfit2.cpp
 
 Read all the code and comments in rugfit2.cpp that are complete. It consists of three main parts - and in later labs you will normally store such parts in separate files: (1) the abstraction - class Rectangle is defined; (2) the implementation - the methods of class Rectangle are defined (a.k.a. implemented); and (3) the application - the main function is defined. Your job involves additions to each of these parts.
