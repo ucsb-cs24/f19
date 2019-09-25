@@ -41,7 +41,7 @@ You must contact the instructor for clarification if you receive information fro
 * Final Examination: 25%
 * Participation (i.e., iClickers): 2%
 
-I will drop the lowest two quizzes. For late labs and programming assignments, you will receive a 10% penalty for each day the lab/programming assignment is late (deadlines are strict, and it's considered a day late even if it's only late by 1 minute). There are no late submissions allowed for any extra credit assignments.
+I will drop the lowest two quizzes. For late labs and programming assignments, you will receive a 15% penalty for each day the lab/programming assignment is late (deadlines are strict, and it's considered a day late even if it's only late by 1 minute). There are no late submissions allowed for any extra credit assignments.
 
 ## Grade assignment policy
 
