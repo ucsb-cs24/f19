@@ -14,7 +14,7 @@ layout: default
 ## Tutors
 
 |Aditya Nadkarni:|<img class="photo" src="???" style="width: 250px;" />|
-|Surya Pugal:|<img class="photo" src="???" style="width: 250px;" />|
+|Surya Pugal:|<img class="photo" src="surya.jpg" style="width: 250px;" />|
 |Bryan Terce:|<img class="photo" src="???" style="width: 250px;" />|
 |Erin Woo:|<img class="photo" src="erin.jpg" style="width: 250px;" />|
 
