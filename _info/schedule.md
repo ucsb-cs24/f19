@@ -6,7 +6,7 @@ layout: default
 
 # Lawton's Office Hours
 
-* Wednesdays, 2pm–4pm
+* Mondays, 2pm–4pm
 * Location: Trailer 936 (location info is below)
 
 Trailer 936 location: [(Google Maps link here)](https://goo.gl/maps/5P8RwH86sFq)<br />
