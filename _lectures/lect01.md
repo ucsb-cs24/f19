@@ -8,8 +8,6 @@ annotatedpdfurl: /lectures/CS24_Lecture1_ann.pdf
 annotatedready: true
 ---
 
-<!--
-
 # Code from lecture
 
 [{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
@@ -25,6 +23,8 @@ annotatedready: true
 * Classes: structs but with methods
 * Accessors and modifiers
 * ADT (Abstract Data Type) ~ class (w/ info hiding) for use by other programmers
+
+<!--
 
 ## Github intro
 * What is github? How and why we plan to use it in this class
