@@ -1,13 +1,14 @@
 ---
 num: "lect02"
 desc: "C++ classes and abstract data types"
-ready: false
+ready: true
 pdfurl:  /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
 annotatedready: true
 lecture_date: 2019-10-01
 ---
 
+<!--
 
 # Code from lecture:
 
@@ -21,6 +22,8 @@ lecture_date: 2019-10-01
 * Constructors, parameterized constructors
 * Examine the differences and similarities between a procedural implementation and a OOP style program  
 * Convert a procedural program to OOP
+
+-->
 
 
 
