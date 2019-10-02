@@ -12,6 +12,10 @@ lecture_date: 2019-10-01
 
 [{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
 
+# Surya's Notes
+
+<https://docs.google.com/document/d/1B5dB9NhJy40s74Wq5dC551-7F0mPqxe_dhh69CUjuaE/edit?usp=sharing>
+
 # Topics
 
 * Introduce the concept of information hiding through access specifiers.
