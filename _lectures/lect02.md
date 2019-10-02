@@ -8,8 +8,6 @@ annotatedready: true
 lecture_date: 2019-10-01
 ---
 
-<!--
-
 # Code from lecture:
 
 [{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
@@ -18,12 +16,15 @@ lecture_date: 2019-10-01
 
 * Introduce the concept of information hiding through access specifiers.
 * Abstract Data Types: Class + information hiding
-* Clarify the use of the const key word - const member variables vs. const functions
+* Clarify the use of the const keyword - const member variables vs. const functions
 * Constructors, parameterized constructors
+
+<!--
 * Examine the differences and similarities between a procedural implementation and a OOP style program  
 * Convert a procedural program to OOP
-
 -->
+
+
 
 
 
