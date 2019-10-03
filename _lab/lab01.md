@@ -271,4 +271,4 @@ Rectangle intersection(Rectangle const &other) const;
 
 Both methods refer to another Rectangle object, and both methods promise not to change either object. The first one returns true or false, but the second one returns a Rectangle object that is the intersection (this second version presumably would return a 0-length and 0-width rectangle if the objects do not intersect).
 
-Push  your code to github, but do not resubmit to gradescope. Attempting the extra credit portion of the lab earns you star points which work in magical ways.
+Push your code to github so that the course staff can see how awesome you are.
