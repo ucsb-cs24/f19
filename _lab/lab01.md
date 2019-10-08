@@ -55,7 +55,7 @@ Note that this repo will be updated to contain the starter code for all labs and
 * Clone the repo on your local machine: Navigate to your repo on github. If your repo is named lab00_jgaucho, then you have to go to to the link:
 https://github.com/ucsb-cs24-f19-nichols/lab00_jgaucho. Click on the green "clone or download" button. Then click on the address of your repo as shown in the figure below:
 
-![submit](/lab/lab01/clone-repo.png){:height="500px"}
+![submit](clone-repo.png){:height="500px"}
 
 * In your terminal navigate to your cs24 directory, then paste the address you just copied to the terminal following the git clone command. Here is an example of the steps
 
