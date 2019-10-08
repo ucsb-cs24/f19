@@ -1,7 +1,7 @@
 ---
 num: "lect04"
 desc: "Linked Lists, Operator overloading, Unit tests"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture4.pdf
 annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
 annotatedready: true
@@ -30,11 +30,8 @@ lecture_date: 2019-10-08
 
 ## Non member functions and friend functions
 * If a non-member function is declared to be a friend of a class, it can access the private members of the class.
-* Discuss when/why you might use friend functions
 
 ## Operator overloading - Pages 63 - 80 in the book
-
-We will overload some of the operators for the Quadratic and Linked List classes.
 
 Example from reading:
 
