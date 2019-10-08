@@ -198,8 +198,6 @@ You can use the provided Makefile to help you complile the program.
 
 ## Step 4: Implement linked list functions
 
-First: switch roles between pilot and navigator if you did not already do that. Always stay logged into the original pilot's account.
-
 You should be able to run the program now (assuming you compiled it in Step 3) - it requires you to enter a starter list of integers on the command line:
 
 ```
