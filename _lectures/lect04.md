@@ -13,6 +13,15 @@ lecture_date: 2019-10-08
 [{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
 # Topics
 
+# Lecture video
+
+Video: <a href="https://www.youtube.com/watch?v=JL0E7ibQ2rc&feature=youtu.be">https://www.youtube.com/watch?v=JL0E7ibQ2rc&feature=youtu.be</a>
+
+Written notes: <a href="https://1drv.ms/o/s!AlgIeD1urAgmgQlHpyss6qfDD-Xm">https://1drv.ms/o/s!AlgIeD1urAgmgQlHpyss6qfDD-Xm</a>
+
+Code: <a href="https://github.com/ucsb-cs24-f19-nichols/code-from-class/tree/master/10-08/10-08-video">https://github.com/ucsb-cs24-f19-nichols/code-from-class/tree/master/10-08/10-08-video</a>
+
+
 ## Linked Lists
 
 * Linked lists as an ADT (implementation using classes)
