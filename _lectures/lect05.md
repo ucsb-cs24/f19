@@ -1,7 +1,7 @@
 ---
 num: "lect05"
 desc: "Linked-lists (contd) "
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
 annotatedready: true 
