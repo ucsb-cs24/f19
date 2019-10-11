@@ -22,5 +22,3 @@ lecture_date: 2019-10-10
 	- ==, !=, << 
 	
 * Use cases for friend functions
-* Review C++ memory management and using valgrind
-* Debugging with GDB
