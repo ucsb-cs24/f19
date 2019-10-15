@@ -1,7 +1,7 @@
 ---
 num: "lect06"
-desc: "Rule of Three, GDB, intro to pa01"
-ready: false
+desc: "GDB, intro to pa01, Recursion"
+ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
 annotatedready: true
