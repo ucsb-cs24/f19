@@ -17,3 +17,5 @@ lecture_date: 2019-10-22
 * BST operations 
 * Traversing a BST inorder, preorder, post order
 * Midquarter feedback
+
+

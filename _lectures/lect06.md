@@ -136,3 +136,9 @@ l2 = l2; //l2's copy assignment is called and l2 is passed as a parameter!
 
 
 
+
+# Recursion
+* Practice recursion on linked-lists
+* Recursive implementation of binary search
+* Intro to Binary Search Trees
+
