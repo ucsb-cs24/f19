@@ -1,8 +1,8 @@
 ---
 num: "lect08"
-desc: "Binary Search Trees - Part 1"
-ready: false
-pdfurl: /lectures/CS24_Lecture8.pdf
+desc: "Binary Search Trees"
+ready: true
+pdfurl: /lectures/CS24_Lecture7.pdf
 annotatedpdfurl: /lectures/CS24_Lecture8_ann.pdf
 annotatedready: true
 lecture_date: 2019-10-22

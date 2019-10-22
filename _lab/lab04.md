@@ -4,7 +4,7 @@ num: lab04
 ready: true
 desc: "Binary Search Tree"
 assigned: 2019-10-29 00:00:00.00-8
-due: 2019-11-05 23:59:00.00-8
+due: 2019-11-07 23:59:00.00-8
 ---
 <div markdown="1">
 
@@ -206,7 +206,7 @@ You are allowed to modify intbst.h, though you should not need to, so submit bot
 
 # Optional Extra Challenge
 
-AFTER you have completed the main lab, you may modify it for extra credit by converting your BST to a generic data structure. For convenience, we will not change any of the file or data structure names, but your structure should be useable as IntBST<T> where T is a type that can be compared with <, >, etc. This could include double, char, or any other basic type. There is a separate Gradescope submission portal for this extra credit assignment. Make sure to have a full-credit submission on the main assignment's Gradescope before working on this part.
+AFTER you have completed the main lab, you may modify it for extra credit by converting your BST to a generic data structure (we will learn about generics/templates later in the course—don't worry, the submission deadline for this part is later than the actual lab). For convenience, we will not change any of the file or data structure names, but your structure should be useable as IntBST<T> where T is a type that can be compared with <, >, etc. This could include double, char, or any other basic type. There is a separate Gradescope submission portal for this extra credit assignment. Make sure to have a full-credit submission on the main assignment's Gradescope before working on this part.
 
 Note that you should implement a generic type in intbst.cpp and include it in your header file as #include "intbst.cpp".
 Submit files: intbst.h and intbst.cpp
