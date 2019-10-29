@@ -1,6 +1,6 @@
 ---
 num: "lect09"
-desc: "Binary Search Trees - Part 2"
+desc: "Big-Oh: Analyzing the efficiency of algorithms"
 ready: true
 pdfurl: /lectures/CS24_Lecture9.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
