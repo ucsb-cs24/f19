@@ -209,8 +209,6 @@ Submit the files evalfull.cpp and usestack.cpp to the lab05 assignment on Grades
 Each student must accomplish the following to earn full credit for this lab:
 [55 points] usestack.cpp and evalfull.cpp are saved, with your name(s) in a comment at the top and other evidence of your work. Both of these files should compile and execute properly too.
 
-To be eligible for late turn-in with credit, you MUST have attended your entire lab period.
-[-0 to -55 points, at the mentor's discretion] The student arrived on time to their lab session, and worked diligently on CS24-related material until dismissed.
 
 ## Optional Extra Challenge
 
