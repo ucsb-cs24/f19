@@ -193,16 +193,13 @@ numbers.push(left + right);
 // done - print result:
 cout << numbers.top() << endl;
 ```
-Please select a different expression - make up a simple one, but not too simple, so you know you understand the steps. Don't make it so complicated that you won't have time to complete it before lab ends (besides, you want to work on the optional challenges for awhile). Show the expression you are evaluating in a comment at the top. Compile and test it so you can show the mentors how it works.
+Please select a different expression - make up a simple one, but not too simple, so you know you understand the steps. Don't make it so complicated that you won't have time to complete it before lab ends (besides, you want to work on the optional challenges for awhile).
 
-## Step 5: Show off your work and get credit for the lab
-
-Get your mentor's attention to inspect your work, and to record your lab completion.
-Don't leave early though ... see challenge problems below.
-
-## Step 6: Submit evalfull.cpp and usestack.cpp
+## Step 5: Submit evalfull.cpp and usestack.cpp
 
 Submit the files evalfull.cpp and usestack.cpp to the lab05 assignment on Gradescope.
+
+We will be manually grading your postfix expression evaluation.
 
 ## Evaluation and Grading
 
