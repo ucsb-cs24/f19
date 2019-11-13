@@ -1,7 +1,7 @@
 ---
 num: "lect13"
-desc: "C++ templates"
-ready: false
+desc: "C++ templates, Queues"
+ready: true
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: true
