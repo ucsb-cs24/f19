@@ -1,8 +1,8 @@
 ---
 num: "lect14"
 desc: "Heaps"
-ready: false
-pdfurl: /lectures/CS24_Lecture14.pdf
+ready: true
+pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture14_ann.pdf
 annotatedready: true
 lecture_date: 2019-11-19
