@@ -1,7 +1,7 @@
 ---
 num: "lect16"
-desc: "Final Review and Wrap up"
-ready: false
+desc: "Wrap up"
+ready: true
 pdfurl: /lectures/CS24_Lecture16.pdf
 annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
 annotatedready: true
