@@ -8,6 +8,9 @@ annotatedready: true
 lecture_date: 2019-11-26
 
 ---
+# Lecture video
+<a href="https://www.youtube.com/watch?v=Oh-u60h75hk">https://www.youtube.com/watch?v=Oh-u60h75hk</a>
+
 # Code from lecture
 [{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
 
