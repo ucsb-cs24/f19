@@ -8,8 +8,6 @@ annotatedready: true
 lecture_date: 2019-12-03
 
 ---
-# Code from lecture
-[{{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }}]({{site.lect_repo}}/tree/master/{{ page.lecture_date | slice: 5, 5 }})
 
 ## Written notes
 
