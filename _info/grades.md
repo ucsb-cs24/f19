@@ -4,7 +4,7 @@ layout: default
 ready: true
 ---
 
-# This page will contain a link to see your complete grade breakdown after the final is graded
+# This page will contain your complete grade breakdown after the final is graded
 
 
 <!--
