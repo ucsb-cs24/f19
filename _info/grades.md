@@ -17,7 +17,7 @@ Enter your perm number:
 # Grades
 
 - All scores here are percentages, with 100.0 being the max.
-- Late lab penalty is 15%.
+- Late lab penalty is 15% per day late.
 - When I submit the grades, some A's will be converted to A+'s at my discretion, as mentioned in the syllabus.
 
 <div id="grades_div">
